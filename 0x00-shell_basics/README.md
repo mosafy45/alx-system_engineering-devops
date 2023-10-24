@@ -1,1 +1,1 @@
-Displays directory
+0x00. Shell, basics
